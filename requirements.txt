@@ -1,2 +1,6 @@
 mip
 pandas
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
